@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.bluefishaquarium.com/");
+header("Location: http://blandodoorcollc.com/");
 die();
 ?>
